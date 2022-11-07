@@ -1,9 +1,10 @@
 body {
-    /* your styles here */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
   }
   
   h1, #designed-by {
-    /* your styles here */
+    text-align: center;
+    color: lightcoral;
   }
   
   .style1 {
